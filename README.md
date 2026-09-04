@@ -1,18 +1,18 @@
 # Stick-Hop
 
-A lightweight browser game built around timing, movement, and simple arcade-style gameplay.
+A lightweight browser game focused on timing, movement, and arcade-style interaction.
 
 ## Overview
 
-**Stick-Hop** is a compact game project focused on responsive controls and an easy-to-understand gameplay loop. It is part of a collection of practical projects exploring interactive web development and game mechanics.
+Stick-Hop is a compact game project designed around a straightforward gameplay loop and responsive player interaction. The project provides a practical environment for exploring browser-based game mechanics and user experience.
 
-## Highlights
+## Features
 
-- 🎮 Simple arcade-style gameplay
-- 🕹️ Interactive player controls
-- ⚡ Fast, lightweight experience
-- 🧠 Timing and coordination focused
-- 📱 Built with a web-first experience in mind
+- Arcade-style gameplay
+- Interactive movement controls
+- Timing and coordination mechanics
+- Lightweight browser experience
+- Simple foundation for extending gameplay
 
 ## Getting Started
 
@@ -23,22 +23,20 @@ git clone https://github.com/PhilaSim/Stick-Hop.git
 cd Stick-Hop
 ```
 
-Follow the project's existing files and configuration to launch the game locally.
+Follow the project's existing entry point and configuration to launch the game locally.
 
-## Project Goals
+## Development
 
-- Practice interactive game development
-- Experiment with movement and timing mechanics
-- Build a simple but engaging browser experience
+Stick-Hop is intended as a practical project for experimenting with interactive controls, movement logic, gameplay flow, and frontend development.
 
 ## Contributing
 
-Bug reports, ideas, and improvements are welcome. Open an issue or submit a pull request with a clear description of your changes.
+Found an issue or have an improvement in mind? Open an issue or submit a pull request with a clear explanation of the change.
 
 ## License
 
-No license has been specified for this repository yet.
+No license has been specified for this repository.
 
----
+## Author
 
-Built by **PhilaSim**.
+**PhilaSim**
